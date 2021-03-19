@@ -3,8 +3,6 @@
 
 # Lots of bugs and S.A.B.J.I.L😃
 
->
-
 <pre><code>
 Where is HONG?
 I'm here ✋
