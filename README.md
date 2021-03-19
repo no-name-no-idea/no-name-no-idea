@@ -4,8 +4,9 @@
 # Lots of bugs and S.A.B.J.I.L😃
 
 <pre><code>
-Where is HONG?
-I'm here ✋
-Do you have an idea?
-No Idea 🤯
+? : Where is HONG?
+me : I'm here ✋
+
+? : Do you have an idea?
+me : No Idea 🤯
 <code><pre>
