@@ -10,3 +10,5 @@ me : I'm here ✋
 ? : Do you have an idea?
 me : No Idea 🤯
 <code><pre>
+
+![Med's GitHub stats](https://github-readme-stats.vercel.app/api?username=no-name-no-idea&show_icons=true)
