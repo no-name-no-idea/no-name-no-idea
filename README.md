@@ -7,12 +7,12 @@
 ![hong's GitHub stats](https://github-readme-stats.vercel.app/api?username=no-name-no-idea&show_icons=true)
 # Lots of bugs and S.A.B.J.I.L😃
 
-<pre><code>
-? : Where is HONG?
-me : I'm here ✋
+  <pre><code>
+  ? : Where is HONG?
+  me : I'm here ✋
 
-? : Do you have an idea?
-me : No Idea 🤯
-<code><pre>  
+  ? : Do you have an idea?
+  me : No Idea 🤯
+  <code><pre>  
 
 </div>
